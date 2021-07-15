@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+h1{
+    width: 500px;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+h3{
+    color: white;
+}
+.info{
+    color: white;
+}
